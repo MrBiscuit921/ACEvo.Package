@@ -2,7 +2,7 @@
 
 KSPackage archive tool for Assetto Corsa EVO.
 
-NOTE: Absolutely no support will be provided. I don't normally deal with racing games at all anymore but this didn't take more than 2 hours.
+NOTE: **Absolutely no support will be provided.** I don't normally deal with racing games at all anymore but this didn't take more than 2 hours.
 
 ## Side Notes
 
