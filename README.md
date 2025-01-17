@@ -11,3 +11,7 @@ The majority of the game content/files uses [protobuf](https://protobuf.dev/) sc
 ## Building
 
 .NET 9.0 and Visual Studio 2022.
+
+## License
+
+MIT License.
