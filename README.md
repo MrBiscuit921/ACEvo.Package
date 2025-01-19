@@ -16,6 +16,13 @@ It is supposedly possible to dump the game contents to the root of the game and 
 
 .NET 9.0 and Visual Studio 2022.
 
+Contributions are welcome.
+
 ## License
 
 MIT License.
+
+## Other Projects
+
+* [kspkg-viewer](https://github.com/sa413x/kspkg-viewer) (C++)
+* [ace-kspkg](https://github.com/ntpopgetdope/ace-kspkg) (Python)
