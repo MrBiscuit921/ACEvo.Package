@@ -14,6 +14,7 @@ It is supposedly possible to dump the game contents to the root of the game and 
 
 ## Usage
 
+Grab the latest in [releases](https://github.com/Nenkai/ACEvo.Package/releases).
 * Extract all files: `ACEvo.Package.CLI.exe unpack <path_to_kspkg> <output_directory>`
 * Extract specific file: `ACEvo.Package.CLI.exe unpack-file <path_to_kspkg> <game_path> <output_directory>`
 * List all files in a package: `ACEvo.Package.CLI.exe list-files <path_to_kspkg>`
