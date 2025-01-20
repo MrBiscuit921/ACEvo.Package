@@ -6,7 +6,7 @@ NOTE: **Absolutely no support will be provided.** I don't normally deal with rac
 
 ## Side Notes
 
-The majority of the game content/files uses [protobuf](https://protobuf.dev/) schemas which may need to be reversed.
+The majority of the game content/files are built using [protobuf](https://protobuf.dev/). Use [protodump](https://github.com/arkadiyt/protodump) against the game executable to recover original schemas.
 
 ## Modding
 
